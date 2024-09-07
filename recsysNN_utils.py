@@ -1,4 +1,3 @@
-""" Utilities for RecSysNN assigment """
 from collections import defaultdict
 import csv
 import numpy as np
